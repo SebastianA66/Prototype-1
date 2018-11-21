@@ -28,7 +28,7 @@ namespace KingdomGates
                 if (playerHealth != null)
                 {
                     playerHealth.TakeDamage(npcDmg);
-                    Debug.Log("Die");
+                    Debug.Log("Player takes damage and the guy doesn't know how to right debugs");
                 }
 
                 //DealDamage(npcDmg);
